@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/436-mendel
 x-kinRank: "8"
 x-alexaRank: "4967"
 tags: Academic
-created: "2018-08-22"
-modified: "2018-08-22"
+created: "2018-08-24"
+modified: "2018-08-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/academic/master/_listings/mendeley/apis.md
 specificationVersion: "0.14"
 apis:

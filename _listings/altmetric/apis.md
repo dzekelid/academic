@@ -10,8 +10,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/a
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Academic
-created: "2018-08-22"
-modified: "2018-08-22"
+created: "2018-08-24"
+modified: "2018-08-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/academic/master/_listings/altmetric/apis.md
 specificationVersion: "0.14"
 apis:
